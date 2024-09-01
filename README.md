@@ -26,9 +26,12 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=gotham" alt="sukhrobnuraliev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Qambarovadilshoda&show_icons=true&theme=gotham" alt="Qambarovadilshoda" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Qambarovadilshoda" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Qambarovadilshoda&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Qambarovadilshoda" /></a> </p>
