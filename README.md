@@ -1,8 +1,24 @@
 <h1 align="center">Hello World!</h1>
 
-<img align="right" src="https://i.pinimg.com/474x/4e/03/87/4e03872d7166cc5ed92c490708af3261.jpg" alt="" width="350" height="300">
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        <!-- Matn qismi -->
+        <p>
+            I am a back-end software engineer specializing in building high-load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life.
+        </p>
+        <p>
+            I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+        </p>
+        <p>
+            <a href="https://linkedin.com/in/username">LinkedIn</a> | <a href="https://twitter.com/username">Twitter</a>
+        </p>
+    </div>
+    <div style="margin-left: 20px; text-align: center;">
+        <!-- Rasm qismi -->
+        <img src="https://i.pinimg.com/474x/4e/03/87/4e03872d7166cc5ed92c490708af3261.jpg" alt="Rasm tavsifi" width="300">
+    </div>
+</div>
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
