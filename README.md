@@ -2,14 +2,14 @@
 
    <img align="right" src="https://i.pinimg.com/474x/4e/03/87/4e03872d7166cc5ed92c490708af3261.jpg" alt="" width="400" height="300">
     
- I am a back-end software engineer specializing in building high-load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life.<br><br><br><br><br>
+ I am a back-end software engineer specializing in building high-load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life.<br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dilshoda_qambarova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/dilshoda-qambarova-802482325/])](https://www.linkedin.com/in/dilshoda-qambarova-802482325/) 
 [![Telegram Badge](https://img.shields.io/badge/@Kolibri_o6-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Kolibri_o6)](https://t.me/Kolibri_o6) 
 
-  
+  <br><br><br><br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Laravel
