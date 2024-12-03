@@ -10,7 +10,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Telegram Badge](https://img.shields.io/badge/@Kolibri_o6-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Kolibri_o6)](https://t.me/Kolibri_o6) 
 
   <br>
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👩‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Laravel
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
