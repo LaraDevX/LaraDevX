@@ -33,6 +33,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DilshodaQambarova&show_icons=true&theme=gotham" alt="DilshodaQambarova" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LaraDevX&show_icons=true&theme=gotham" alt="LaraDevX" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DilshodaQambarova&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Qambarovadilshoda" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DilshodaQambarova&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="LaraDevX" /></a> </p>
