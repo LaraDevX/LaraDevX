@@ -31,6 +31,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/Sqlite-E34F26?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LaraDevX&show_icons=true&theme=gotham" alt="LaraDevX" />
